@@ -2,7 +2,7 @@
 ## USED SUPER VPN TO START ❤️
 ## THIS TOOL IS PAID ❤️
 ## New Id'z / 100084.84 FILE ❤️
-###### rm -rf FILE
+###### rm -rf V2
 ###### git clone https://github.com/Mr-Qureshi-xd/V2
 ###### cd V2
 ###### python V02.py
